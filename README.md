@@ -1,0 +1,2 @@
+# Golactic-Engine
+This is going to be a game engine that is made in Golang with the UI being Electron. We are using golang to experiment with the possibilities of what the language can do and to see if it can outperform a C++ engine (for example, Unity or Unreal Engine 5). The engine will be both in 2d and 3d, meaning there are an infinite possibility of what type of games that you can create. As always, to the Moon!
